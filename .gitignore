@@ -1,0 +1,19 @@
+# Dependencies and build outputs
+frontend/node_modules/
+frontend/dist/
+
+# Local application data and credentials
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+database/*.db
+firebase-service-account.json
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+desktop.ini
