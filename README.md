@@ -6,7 +6,7 @@
 
 SignalVault CTI brings evidence collection and analyst workflow into one focused workspace. It accepts manually observed IOCs, synchronizes the official CISA Known Exploited Vulnerabilities (KEV) catalog, deduplicates records, assigns transparent risk scores, and lets an analyst retain confidence, disposition, and investigation notes.
 
-**Design and development: Abhishek Yadav**
+Design and developed by : Abhishek Yadav
 
 ## Highlights
 
